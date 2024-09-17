@@ -1,0 +1,65 @@
+- class_name: 社长们
+  class_desc:
+  link_list:
+    - name: 马瀚卿
+      link:
+      descr: 一个喜欢摸鱼的钓鱼佬
+      avatar: /img/members/马瀚卿_avatar.jpg
+      siteshot: /img/members/马瀚卿.jpg
+    - name: 黄光毅
+      link:
+      descr: 尽人事 听天命
+      avatar: /img/members/黄光毅_avatar.jpg
+      siteshot: /img/members/黄光毅.jpg
+    - name: 潘炜
+      link:
+      descr: 。。。
+      avatar: /img/members/潘炜_avatar.jpg
+      siteshot: /img/members/潘炜.jpg
+    # - name:
+    #   link:
+    #   descr:
+    #   avatar:
+    #   siteshot:
+
+- class_name: 老登们
+  class_desc:
+  link_list:
+    - name: 邹元浩
+      link:
+      descr: 日拱一卒
+      avatar: /img/members/邹元浩_avatar.jpg
+      siteshot: /img/members/邹元浩.jpg
+    - name: 汤兆恒
+      link:
+      descr: 钓罗非鱼的17老灯
+      avatar: /img/members/汤兆恒_avatar.jpg
+      siteshot: /img/members/汤兆恒.jpg
+    - name: 许戎汉
+      link:
+      descr: 。。。
+      avatar: /img/members/许戎汉_avatar.jpg
+      siteshot: /img/members/许戎汉.jpg
+
+# - class_name: 机械组
+#   class_desc: 那些人，那些事
+#   link_list:
+
+# - class_name: 电控组
+#   class_desc: 值得推薦的網站
+#   link_list:
+#     - name: Youtube
+#       link: https://www.youtube.com/
+#       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+#       siteshot: https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg
+#       descr: 視頻網站
+#     - name: Weibo
+#       link: https://www.weibo.com/
+#       avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+#       siteshot: https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg
+#       descr: 中國最大社交分享平台
+#     - name: Twitter
+#       link: https://twitter.com/
+#       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+#       siteshot: https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg
+#       descr: 社交分享平台

@@ -10,18 +10,19 @@ nav:
 # Menu 目錄
 menu:
   # 主页: / || fas fa-home
-  Passages || fa fa-graduation-cap || hide:
-    Archives: /archives/ || fa fa-archive
-    Tags: /tags/ || fa fa-tags
-    Categories: /categories/ || fa fa-folder-open
+  Passages: /archives/ || fa fa-graduation-cap # || hide:
+  #  Archives: /archives/ || fa fa-archive
+  #  Tags: /tags/ || fa fa-tags
+  #  Categories: /categories/ || fa fa-folder-open
   # 生活 || fas fa-list:
   #   分享: /shuoshuo/ || fa fa-comments-o
   #   相册: /photos/ || fa fa-camera-retro
   #   音乐: /music/ || fa fa-music
   #   影视: /movies/ || fas fa-video
-  # 友链: /links/ || fa fa-link
+  Link: /link/ || fa fa-link
   # 留言板: /comment/ || fa fa-paper-plane
   Contact Us: /about/ || fas fa-heart
+  中文: https://lyx1311.github.io/ares-ch/ || fa fa-language
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -999,3 +1000,6 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+
+# Addition
+flink_style: flexcard
